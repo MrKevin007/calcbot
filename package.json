@@ -2,7 +2,7 @@
   "name": "calcbot",
   "version": "1.0.0",
   "description": "Bot de calculadora no discord",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MrKevin007/calcbot#readme",
   "dependencies": {
-    "discord.js": "^14.22.1"
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2"
   }
 }
