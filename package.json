@@ -1,0 +1,23 @@
+{
+  "name": "calcbot",
+  "version": "1.0.0",
+  "description": "Bot de calculadora no discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKevin007/calcbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKevin007/calcbot/issues"
+  },
+  "homepage": "https://github.com/MrKevin007/calcbot#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
